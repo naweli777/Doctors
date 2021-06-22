@@ -1,0 +1,555 @@
+[
+  {
+    "doctor_name": "Dr. Alice",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 1,
+    "practice_id": 1,
+    "city": "Bangalore",
+    "currency": "INR",
+    "specialties": [
+      {
+        "sub_specialty": "Dental Surgeon",
+        "specialty": "Dentist"
+      }
+    ],
+    "specialisation": ["Dentist", "Oral Surgeon", "Dental Surgeon"],
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Leanne Graham",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 2,
+    "practice_id": 2,
+    "city": "Bangalore",
+    "currency": "INR",
+    "specialties": [
+      {
+        "sub_specialty": "Dental Surgeon",
+        "specialty": "Dentist"
+      }
+    ],
+    "specialisation": ["General Physician", "Dentist"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Ervin Howell",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 3,
+    "practice_id": 3,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Pediatrician"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Clementine Bauch",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 4,
+    "practice_id": 4,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Ayurveda"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Patricia Lebsack",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 5,
+    "practice_id": 5,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Orthopedist"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Chelsey Dietrich",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 6,
+    "practice_id": 6,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Gynecologist/obstetrician", "Gynecologist"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Dennis Schulist",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 7,
+    "practice_id": 7,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Homeopath"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Kurtis Weissnat",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 8,
+    "practice_id": 8,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Cardiologist"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Nicholas Runolfsdottir V",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 9,
+    "practice_id": 9,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["General Surgeon"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Clementina DuBuque",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 10,
+    "practice_id": 10,
+    "city": "Bangalore",
+    "currency": "INR",
+    "specialties": [
+      {
+        "sub_specialty": "Dental Surgeon",
+        "specialty": "Dentist"
+      }
+    ],
+    "specialisation": ["Ophthalmologist/ Eye Surgeon"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  },
+  {
+    "doctor_name": "Dr. Glenna Reichert",
+    "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+    "qualifications": [
+      {
+        "completion_year": "1999",
+        "qualification": "BDS",
+        "college": "ACME College for Dental Sciences"
+      }
+    ],
+    "doctor_id": 11,
+    "practice_id": 11,
+    "city": "Bangalore",
+    "currency": "INR",
+
+    "specialisation": ["Dermatologist/cosmetologist", "Dermatologist"],
+
+    "latitude": "12.910295",
+    "longitude": "77.599681",
+    "practice_photos": [
+      {
+        "url": "https://www.example.com/09848ac09908de090ef09809",
+        "logo": false
+      }
+    ],
+    "availability": {
+      "wednesday": true,
+      "monday": true,
+      "thursday": true,
+      "sunday": false,
+      "saturday": true,
+      "tuesday": true,
+      "friday": true
+    },
+    "country": "India",
+    "doctor_photos": [
+      {
+        "url": "https://www.example.com/98ed3409ab4329ced4899",
+        "is_default": false
+      }
+    ],
+    "recommendation": 15,
+    "consultation_fees": 200,
+    "consultation_free": false,
+    "practice_name": "Smiles Dental",
+    "locality": "J P Nagar 3 Phase",
+    "doctor_profile_url": "https://picsum.photos/400",
+    "experience_years": 5
+  }
+]
